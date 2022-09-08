@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Henry
 - 👀 I’m interested in Software, Web and App development.
-- 🌱 I’m currently learning React js, Typescript, Node, MongoDB, SQL, C#
+- 🌱 I’m currently learning MERN stack
 - 💞️ LETS CODE
 - 📫 matola.henry@outlook.com
