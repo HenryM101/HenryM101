@@ -1,5 +1,7 @@
+~ HENRY MATOLA 😎🖤
+
 - 👋 Hi, I’m @Henry
-- 👀 I’m interested in Software, Web and App development.
-- 🌱 I’m currently learning MERN stack
+- 👀 I’m interested in Software development, Network Engineering and system Implimentation.
+- 🌱 I’m currently learning .NET, Linux, and TypeScript
 - 💞️ LETS CODE
-- 📫 matola.henry@outlook.com
+- 📫 Get in touch with me - matola.henry@outlook.com
