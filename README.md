@@ -1,4 +1,4 @@
-#~ HENRY MATOLA 😎🖤
+~ HENRY MATOLA 😎🖤
 
 - 👋 Hi, I’m @Henry
 - 👀 I’m interested in Software development, Network Engineering and system Implimentation.
